@@ -1,0 +1,2 @@
+E:\Development\APIEvolved\obj\Debug\APIEvolved.njsprojResolveAssemblyReference.cache
+E:\Development\APIEvolved\bin\Microsoft.NodejsTools.WebRole.dll
