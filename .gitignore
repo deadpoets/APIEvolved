@@ -8,4 +8,6 @@ ArkData/arkdata.json
 npm.cmd
 node.exe
 .suo
-
+bin/
+obj/
+*.swp
